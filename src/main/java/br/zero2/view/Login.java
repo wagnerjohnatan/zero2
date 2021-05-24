@@ -144,8 +144,8 @@ public class Login extends javax.swing.JFrame {
            
        }else{
            JOptionPane.showMessageDialog(null, "ACESSO NEGADO","ERRO",JOptionPane.ERROR_MESSAGE);
-           txtLogin.setText("");
-           txtSenha.setText("");
+                txtLogin.setText("");
+                txtSenha.setText("");
        }
     }//GEN-LAST:event_jButton1ActionPerformed
 
